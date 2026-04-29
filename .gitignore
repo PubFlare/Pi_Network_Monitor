@@ -2,3 +2,4 @@ Network_log_ACTIVE.csv
 logs/
 system_errors.log
 network_stats.json
+config.py
